@@ -40,4 +40,4 @@ Finalmente tras haber desarrollado este pequeño sistema, no fue necesario imple
 </div>
 
 ## Extra: Para mí lo más importante
-Para el modo "deep sleep" no encontré mucha información en internet y lo poco que encontraba no me gustaba. Finalmente a partir del datasheet, adapté mi propio código para el ATTINY13A.
+Para el modo "deep sleep" no encontré mucha información en internet y lo poco que encontraba no me gustaba. Finalmente a partir del datasheet, adapté mi propio código para el ATTINY13A, para más información visita el proyecto [MRE-ATTINY13A-DEEP_SLEEP](https://github.com/torbol/MRE-ATTINY13A-DEEP_SLEEP).
