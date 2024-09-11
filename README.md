@@ -25,7 +25,8 @@ Como podemos ver cuenta con 3 pines en la zona superior y dos en la inferior, la
 
 # Resultado
 ## Video
-https://github.com/user-attachments/assets/58d54a43-12a8-4bbd-b895-d1b470230cda
+
+https://github.com/user-attachments/assets/8c8c64fe-9294-41ef-b0de-fd418badb5d0
 
 ## Resultado final una vez fabricada la pcb
 Aunque es una versión anterior sin el tercer pin de arriba (común botones), funciona exactamente igual (va a común del aparato, que debe ser el mismo para todos, solo que al estar el chip aislado por los optoacpoladores, se optó por el nuevo diseño para tener el mínimo impacto en la pcb del microcontrolador del SINOTIMER, de esta manera, es como si pulsásemos los botones nosotros mismos.
